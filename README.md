@@ -1,3 +1,20 @@
+# 👋 Hello, I'm Abhi Dobariya!
+
+🎓 A passionate **Computer Science & Engineering (BTech) student** in my 3rd year.  
+💻 Exploring **Machine Learning**, **MERN Stack**, **Flutter**, and **React** development.  
+🚀 Currently working on a **MERN Stack e-commerce website** and expanding my ML knowledge.  
+🛠️ Built projects in **ML, Flutter, and React** to apply my skills in real-world applications.  
+
+## 🔥 Technologies & Interests:
+- **Machine Learning** 🧠 | Beginner exploring predictive models  
+- **MERN Stack** 🌐 | Full-stack development with MongoDB, Express, React, and Node.js  
+- **Flutter & Dart** 📱 | Cross-platform mobile development  
+- **ASP.NET Core** 🏗️ | Building scalable web applications  
+
+## 📌 Goals:
+🔹 Deepen my knowledge in **ML & AI**  
+🔹 Build more **real-world projects**  
+🔹 Contribute to **open source**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhi-dobariya-56b63524b) 
